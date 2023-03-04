@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file was automatically generated-->
+<AssetGroup bigERP="true">
+  <!--common big erp-->
+  <ERP>2022_asset_groups/f1_2022_vehicle_package/teams/common.erp</ERP>
+  <!--specific big erp-->
+  <ERP>2022_asset_groups/f1_2022_vehicle_package/teams/mclaren/wep/mclaren.erp</ERP>
+</AssetGroup>
